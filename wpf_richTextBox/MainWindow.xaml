@@ -1,0 +1,58 @@
+﻿<Window x:Class="wpf_richTextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_richTextBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel>
+        <ToolBarPanel Height="30" DockPanel.Dock="Top" Width="auto">
+            <ToolBar x:Name="toolBar" ToolBarTray.IsLocked="True" HorizontalAlignment="Left" Width="auto" Height="30">
+                <Button>
+                    <Image Source="images/toolbar/copy.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="images/toolbar/cut.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="images/toolbar/paste.png"></Image>
+                </Button>
+            </ToolBar>
+        </ToolBarPanel>
+        <ToolBarOverflowPanel Height="30" DockPanel.Dock="Top" HorizontalAlignment="Left" Width="auto">
+            <ToolBar x:Name="toolBar2" ToolBarTray.IsLocked="True" HorizontalAlignment="Left" Width="auto" Height="30">
+                <Button>
+                    <Image Source="images/toolbar/copy.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="images/toolbar/cut.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="images/toolbar/paste.png"></Image>
+                </Button>
+            </ToolBar>
+        </ToolBarOverflowPanel>
+        <ToolBarTray Height="30" DockPanel.Dock="Bottom">
+            <ToolBar x:Name="toolBar1" ToolBarTray.IsLocked="False" HorizontalAlignment="Left" Width="auto" Height="30">
+                <Button>
+                    <Image Source="images/toolbar/copy.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="images/toolbar/cut.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="images/toolbar/paste.png"></Image>
+                </Button>
+            </ToolBar>
+        </ToolBarTray>
+        <RichTextBox x:Name="richTextBox" Height="auto" Width="auto">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="This demo lets me know DockPanel, ToolBarTray, ToolBarPanel, ToolBarOverflowPanel, ToolBar"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </DockPanel>
+</Window>

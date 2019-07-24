@@ -1,0 +1,14 @@
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\bin\Debug\wpf_richTextBox.exe.config
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\bin\Debug\wpf_richTextBox.exe
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\bin\Debug\wpf_richTextBox.pdb
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox.csprojResolveAssemblyReference.cache
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\MainWindow.g.cs
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\App.g.cs
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox_MarkupCompile.cache
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox_MarkupCompile.lref
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\MainWindow.baml
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox.g.resources
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox.Properties.Resources.resources
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox.csproj.GenerateResource.Cache
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox.exe
+E:\VS Forms\wpf_richTextBox\wpf_richTextBox\obj\Debug\wpf_richTextBox.pdb

@@ -1,0 +1,14 @@
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\bin\Debug\wpf_RightTextBox1.exe.config
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\bin\Debug\wpf_RightTextBox1.exe
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\bin\Debug\wpf_RightTextBox1.pdb
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1.csprojResolveAssemblyReference.cache
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\MainWindow.g.cs
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\App.g.cs
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1_MarkupCompile.cache
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1_MarkupCompile.lref
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\MainWindow.baml
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1.g.resources
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1.Properties.Resources.resources
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1.csproj.GenerateResource.Cache
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1.exe
+E:\VS Forms\wpf_richTextBox\wpf_RightTextBox1\obj\Debug\wpf_RightTextBox1.pdb
